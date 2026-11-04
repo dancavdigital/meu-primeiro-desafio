@@ -23,24 +23,3 @@ else if (NomeExperiencia[1] >= 9001 && NomeExperiencia[1] <= 10000 ){
 }
 else if(NomeExperiencia[1] > 10000 )
     console.log("O Heroi " + NomeExperiencia[0] +" Possui XP Nível Platina Radiante")
-
-/* let NomeExperiencia = ["DTUNDER", 5500]
-
-switch (true)
-
-{    case NomeExperiencia[1] <= 1000 :
-    console.log ("O Heroi " + NomeExperiencia[0] +  " ainda esta fraco");
-    break;
-
-    case NomeExperiencia[1] >= 1001 && NomeExperiencia[1] <= 2000:
-    console.log("O Heroi " + NomeExperiencia[0] + " esta ficando forte");
-    break;
-
-    case NomeExperiencia[1] >= 2001 && NomeExperiencia[1] <= 5000:
-    console.log("O Heroi " + NomeExperiencia[0] + " esta fortinho");
-    break;
-
-    case NomeExperiencia[1] >= 5001 && NomeExperiencia[1] <= 10000:
-    console.log("O Heroi " + NomeExperiencia[0] + " esta IMORTAL");
-    break;
-}*/
